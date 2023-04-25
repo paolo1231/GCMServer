@@ -18,7 +18,7 @@ namespace GCMServer
     public partial class Main : Form
     {
         String deviceId = "APA91bG9XdrbzUK3bOGRiDyKwWyqVZ-aAf8uDJMzrhTYADsHocqziywpdDZGkpN11BMHFESoVtUSFtlJBLeETTfH1YGC_riZAHoo9Zl4QDg2sjGCZrVtDaFErTKr9zd8lIJePTJ9nh6yah4IpvSEaYEsUR9WFVRpgQsJ-JfVrPdcQkPE5HdK4BU";
-        String apiKey = "AIzaSyBzJ86Ku9YhuftnUnVFNwBxVDDo42fvD9Q";
+        String apiKey = "INSERT_API_KEY_HERE";
         String response;
         String message = "";
         String contentTitle = "";
